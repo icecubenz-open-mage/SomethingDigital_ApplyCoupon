@@ -1,0 +1,15 @@
+{
+  "name": "sdinteractive/apply-coupon",
+  "license": "MIT",
+  "type": "magento-module",
+  "description": "A Magento extension that uses a query parameter to set a coupon code",
+  "homepage": "https://github.com/sdinteractive/SomethingDigital_ApplyCoupon",
+  "authors": [
+      {
+          "name": "sdinteractive"
+      }
+  ],
+  "require": {
+      "magento-hackathon/magento-composer-installer": "*"
+  }
+}
